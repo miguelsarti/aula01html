@@ -56,3 +56,14 @@ aside {
     height: 100%;
     width: 25%; 
 }
+
+footer {
+    background-color: #1d6ac1;
+    border-radius: 6px;
+    margin: 10px 0;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
